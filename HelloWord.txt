@@ -3,3 +3,7 @@
 echo Hello World        # This is a comment, too!
 
 Main Child
+
+I am making changes for my master
+
+I am making another changes for master
